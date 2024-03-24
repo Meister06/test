@@ -1,0 +1,12 @@
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\bin\Debug\calcuptex.exe.config
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\bin\Debug\calcuptex.exe
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\bin\Debug\calcuptex.pdb
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\bin\Debug\calcuptex.xml
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\obj\Debug\calcuptex.vbproj.AssemblyReference.cache
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\obj\Debug\calcuptex.Form1.resources
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\obj\Debug\calcuptex.Resources.resources
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\obj\Debug\calcuptex.vbproj.GenerateResource.cache
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\obj\Debug\calcuptex.vbproj.CoreCompileInputs.cache
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\obj\Debug\calcuptex.exe
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\obj\Debug\calcuptex.xml
+C:\Users\Arthur Morata\source\repos\calcuptex\calcuptex\obj\Debug\calcuptex.pdb
